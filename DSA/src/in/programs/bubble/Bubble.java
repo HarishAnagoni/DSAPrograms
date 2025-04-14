@@ -23,7 +23,7 @@ public class Bubble {
 			}if(bs) break;
 		}
 
-		logger.log(Level.INFO,"{0}",Arrays.toString(a));
+		logger.log(Level.INFO,"Sorted Array= {0}",Arrays.toString(a));
 	}
 
 }
